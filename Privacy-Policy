@@ -1,0 +1,78 @@
+
+# Privacy Policy – Pilot GPT
+
+## Overview
+
+Pilot GPT is a browser extension designed to improve the user interface and workflow when using ChatGPT.
+The extension operates primarily within the user's browser and does not collect or store personal data.
+
+---
+
+## Data Storage
+
+Pilot GPT stores a limited amount of **extension settings locally in the browser** to enable its functionality.
+
+Examples of stored settings may include:
+
+* whether the extension is enabled or disabled
+* interface preferences
+* feature toggles (for example UI or navigation options)
+
+These settings are stored using the browser’s extension storage system.
+
+---
+
+## Anonymous Usage Statistics
+
+To improve the extension, Pilot GPT may collect **anonymous feature usage statistics**.
+
+These statistics may include information such as:
+
+* which extension features are used
+* how often certain interface elements are activated
+* general usage frequency of the extension
+
+These statistics are collected **in an aggregated and anonymous form** and are used only to improve the extension.
+
+Pilot GPT **does not collect**:
+
+* ChatGPT conversation content
+* prompts or messages
+* personal user information
+
+---
+
+## Website Interaction
+
+Pilot GPT interacts with the ChatGPT website in order to provide interface enhancements such as:
+
+* navigation tools
+* interface controls
+* workflow improvements
+
+This interaction occurs **locally within the browser** and is necessary for the extension to function.
+
+---
+
+## Data Sharing
+
+Pilot GPT does **not sell, transfer, or share personal data** with third parties.
+
+---
+
+## Third-Party Services
+
+Pilot GPT operates on the ChatGPT website, which is provided by OpenAI.
+Use of ChatGPT is subject to OpenAI’s own privacy policies.
+
+---
+
+## Changes to This Policy
+
+This privacy policy may be updated if the extension functionality changes.
+
+---
+
+## Contact
+For privacy-related questions regarding the Pilot GPT browser extension, please contact
+jensbnet@gmail.com
